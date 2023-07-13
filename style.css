@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: linear-gradient(#e62114, #9191e5);
+    color:aliceblue
+}
+.hero_title{
+    text-align: center;
+    line-height: 100vh;
+    font-family: 'VT323', monospace;
+    font-size: xx-large;
+}
